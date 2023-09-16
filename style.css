@@ -1,0 +1,28 @@
+body{
+    background-color: #84bcda;
+    color: rgb(255, 255, 255);
+}
+h1{
+background-color: #067bc2;
+color:#ecc30b;
+padding: 40px;
+}
+h2{background-color: #f37748;
+    color: #ffffff;
+    }
+strong{
+    font-size: 40px;
+    font-weight: 100;
+    font-family: 'Trebuchet MS', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:#d56062
+    }
+a{
+    color:#067bc2;
+    font-size: larger;
+    background-color: #ecc30b;
+    padding: 40px; 
+}
+a:hover{
+    color:#d56062;
+    background-color: violet;
+}
